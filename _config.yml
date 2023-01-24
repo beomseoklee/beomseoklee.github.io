@@ -1,6 +1,6 @@
 # Build settings
-theme: minima
-title: Beomseok's Home
+theme: cayman
+title: Title
 author: Beomseok Lee
-description: Beomseok's home
+description: Description
 markdown: GFM
