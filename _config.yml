@@ -1,6 +1,8 @@
 # Build settings
-theme: minima
-title: Beomseok's Home
 author: Beomseok Lee
 description: Beomseok's personal thoughts
+header_pages:
+  - about.md
 markdown: GFM
+theme: minima
+title: Beomseok's Home
