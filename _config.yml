@@ -1,4 +1,6 @@
+# Build settings
 theme: minima
 title: Beomseok's Home
 author: Beomseok Lee
 description: Beomseok's home
+markdown: GFM
