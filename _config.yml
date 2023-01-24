@@ -1,6 +1,8 @@
 # Build settings
-theme: cayman
-title: Title
+remote_theme: pages-thems/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Beomseok's Home
 author: Beomseok Lee
-description: Description
+description: Beomseok's personal thoughts
 markdown: GFM
